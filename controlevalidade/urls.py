@@ -1,5 +1,5 @@
 from django.urls import path
-from computacao2 import views
+from controlevalidade import views
 
 
 urlpatterns = [
